@@ -1,0 +1,59 @@
+@charset "utf-8";
+
+.title-logo{
+ width: 500px;
+
+}
+
+.page-1{
+    transform: translate( 0 , 280px );
+    text-align: center;
+    justify-content: center; 
+}
+
+.wrap{
+    width: 800px;
+    height: 600px;
+    border: 10px inset wheat;
+    text-align: center;
+    background-color: rgba(105,105,105,0.6);
+    margin: auto;
+    transform: translate( 0 , 20%);
+    font-family: "Sawarabi Mincho";
+}
+
+.page-2{
+    transform: translate( 0 , 200px );
+    text-align: center;
+    justify-content: center; 
+}
+
+.page-3{
+    transform: translate( 0 , 200px );
+    text-align: center;
+    justify-content: center; 
+}
+
+.page-4{
+    transform: translate( 0 , 200px );
+    text-align: center;
+    justify-content: center; 
+}
+
+.page-5{
+    transform: translate( 0 , 200px );
+    text-align: center;
+    justify-content: center; 
+}
+
+
+.text-all{
+    display: flex;
+    margin: 250px auto 100px ;
+    max-width:  800px ;
+    text-align: center;
+    justify-content: center; 
+    font-size: 32px;
+    
+}
+
